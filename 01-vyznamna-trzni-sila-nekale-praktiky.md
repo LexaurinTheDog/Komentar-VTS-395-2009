@@ -553,6 +553,11 @@ Zákon připouští sjednání delší lhůty splatnosti jen v taxativně vymeze
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 125/2013 - 399](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715173) — 30. 8. 2023
+  > „Je přitom zjevné, že ustanovení § 4 („Zákaz zneužití významné tržní síly“) systematicky navazuje právě na ustanovení § 3 zákona o významné tržní síle („Významná tržní síla“). … ustanovení § 4 obsahuje výslovný zákaz zneužití významné tržní síly … Z logiky věci proto plyne, že zákaz zneužití významné tržní síly odběratele se může vztahovat toliko na jeho vztahy s dodavateli, vůči kterým tento odběratel významnou tržní sílou disponuje"
+
 #### Systém katalogů — „černá" a „šedá" listina
 
 § 4 buduje dvoustupňový systém zakázaných praktik, inspirovaný strukturou UTP (čl. 3 a 4):
@@ -899,9 +904,4 @@ Podmínkou uložení opatření je zjištění porušení zákazu „stanovenéh
 ---
 
 > **Pokračování:** [02-dozor-prestupky-zaverecna.md](02-dozor-prestupky-zaverecna.md) — §§ 7–11: procesní pravidla dozoru (přiměřené použití zákona o ochraně hospodářské soutěže), přestupky právnických a podnikajících fyzických osob, promlčení, pořádkové pokuty, mezinárodní spolupráce, mlčenlivost a závěrečná ustanovení.
-
-
-
-
-
 
