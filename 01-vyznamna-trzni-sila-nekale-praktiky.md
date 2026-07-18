@@ -86,6 +86,60 @@ Vztah k zákonu o ochraně hospodářské soutěže (zákon č. 143/2001 Sb.) je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ae70b7b66cbc5c65dcc generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 1 — Úvodní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon zapracovává příslušný předpis Evropské unie1) a upravuje
+>
+> - a) způsob posuzování a zamezení nekalým obchodním praktikám odběratele s významnou tržní silou v zemědělském a potravinovém řetězci,
+>
+> - b) náležitosti a formu smlouvy mezi odběratelem s významnou tržní silou a dodavatelem,
+>
+> - c) dozor nad dodržováním tohoto zákona.
+>
+> (2) Podle tohoto zákona se posuzují nekalé obchodní praktiky bez ohledu na to, kde byly uskutečněny, a bez ohledu na rozhodné právo smlouvy mezi odběratelem s významnou tržní silou a dodavatelem, pokud jejich účinky nastaly nebo mohou nastat na území České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ae70b7b66cbc5c65dcc -->
+
 ### § 2 — Vymezení některých pojmů
 
 > **§ 2**
@@ -165,6 +219,64 @@ Zákonná definice produktu podléhajícího rychlé zkáze je zásadní pro jed
 **Typicky rozhodné důkazy / podklady:** zakladatelské dokumenty aliance, doklady o koordinaci nákupu/prodeje, specifikace produktu a jeho složení, smlouvy o souvisejících službách.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dfaafaeca4cb4067e4ae generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 2 — Vymezení některých pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> Pro účely tohoto zákona se rozumí
+>
+> - a) dodavatelem osoba nebo aliance dodavatelů, pokud vyrábí nebo prodává zemědělské produkty nebo potravinářské výrobky nebo přijímá nebo poskytuje služby související s prodejem zemědělských produktů nebo potravinářských výrobků (dále jen „související služby“); dodavatelem je také osoba, která prodej, výrobu nebo související služby pro jiného dodavatele zajišťuje na základě smlouvy,
+>
+> - b) odběratelem osoba nebo aliance odběratelů, pokud nakupuje zemědělské produkty nebo potravinářské výrobky nebo přijímá nebo poskytuje související služby, nebo osoba, která takový nákup nebo související služby pro jiného odběratele zajišťuje na základě smlouvy; odběratelem je také stát, územní samosprávný celek, jiná právnická osoba veřejného práva nebo jejich sdružení,
+>
+> - c) aliancí dodavatelů uskupení osob vzniklé na základě smlouvy, jiného právního jednání nebo jiné právní skutečnosti, které zajišťuje spolupráci mezi dodavateli v souvislosti s výrobou nebo prodejem zemědělských produktů nebo potravinářských výrobků nebo přijímáním nebo poskytováním souvisejících služeb, nebo bylo za účelem této spolupráce vytvořeno, nezávisle na tom, zda toto uskupení má nebo nemá právní osobnost,
+>
+> - d) aliancí odběratelů uskupení osob vzniklé na základě smlouvy, jiného právního jednání nebo jiné právní skutečnosti, které zajišťuje spolupráci mezi odběrateli v souvislosti s nákupem zemědělských produktů nebo potravinářských výrobků nebo přijímáním nebo poskytováním souvisejících služeb, nebo bylo za účelem této spolupráce vytvořeno, nezávisle na tom, zda toto uskupení má nebo nemá právní osobnost,
+>
+> - e) zemědělskými produkty a potravinářskými výrobky produkty uvedené na seznamu v příloze I Smlouvy o fungování Evropské unie, jakož i produkty v této příloze neuvedené, avšak zpracované pro použití jako potraviny s využitím látek, výrobků nebo zboží uvedených v této příloze,
+>
+> - f) zemědělskými produkty a potravinářskými výrobky podléhajícími rychlé zkáze zemědělské produkty nebo potravinářské výrobky, které by se ze své podstaty nebo ve své fázi zpracování mohly stát nevhodnými k prodeji v průběhu 30 dnů od sklizně, výroby nebo zpracování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfaafaeca4cb4067e4ae -->
 
 ### § 3 — Významná tržní síla
 
@@ -257,6 +369,72 @@ Odst. 2 zakotvuje čistě vnitrostátní rozšíření nad rámec UTP: VTS má r
 **Typicky rozhodné důkazy / podklady:** účetní závěrky obou skupin, doklady o vlastnické struktuře a ovládání, kurzové lístky ČNB, doklad o veřejnoprávní povaze odběratele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c189da4b3ebbd6fdd63 generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 3 — Významná tržní síla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Významnou tržní sílu má
+>
+> - a) odběratel, jehož roční obrat přesahuje 2 000 000 EUR, vůči dodavateli, jehož roční obrat nepřesahuje 2 000 000 EUR,
+>
+> - b) odběratel, jehož roční obrat přesahuje 10 000 000 EUR, vůči dodavateli, jehož roční obrat přesahuje 2 000 000 EUR, ale nepřesahuje 10 000 000 EUR,
+>
+> - c) odběratel, jehož roční obrat přesahuje 50 000 000 EUR, vůči dodavateli, jehož roční obrat přesahuje 10 000 000 EUR, ale nepřesahuje 50 000 000 EUR,
+>
+> - d) odběratel, jehož roční obrat přesahuje 150 000 000 EUR, vůči dodavateli, jehož roční obrat přesahuje 50 000 000 EUR, ale nepřesahuje 150 000 000 EUR,
+>
+> - e) odběratel, jehož roční obrat přesahuje 350 000 000 EUR, vůči dodavateli, jehož roční obrat přesahuje 150 000 000 EUR, ale nepřesahuje 350 000 000 EUR, nebo
+>
+> - f) odběratel, kterým je stát, územní samosprávný celek, jiná právnická osoba veřejného práva nebo jejich sdružení, vůči dodavateli, jehož roční obrat nepřesahuje 350 000 000 EUR.
+>
+> (2) Významnou tržní sílu má rovněž
+>
+> - a) odběratel, jehož roční obrat na území České republiky přesáhne 5 mld. Kč,
+>
+> - b) odběratel, který je ovládanou osobou, jehož roční obrat na území České republiky nepřesáhne 5 mld. Kč, pokud jeho obrat společně s obratem ovládající osoby přesáhne 5 mld. Kč, nebo
+>
+> - c) nákupní aliance, u které společný obrat jejích členů na území České republiky přesáhne 5 mld. Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c189da4b3ebbd6fdd63 -->
 
 ### § 3a — Roční obrat
 
@@ -384,6 +562,106 @@ Strany si při smluvním jednání **na vyžádání** vzájemně poskytnou info
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1a301d472fe7f8958866 generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 3a — Roční obrat
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Ročním obratem uvedeným v § 3 je roční obrat za poslední ukončené účetní období v délce 12 měsíců.
+>
+> (2) Při výpočtu ročního obratu odběratele nebo dodavatele se vychází z ročního obratu podniku, nezávislého podniku, partnerského podniku a propojeného podniku podle doporučení Komise 2003/361/ES ze dne 6. května 2003 o definici mikropodniků a malých a středních podniků.
+>
+> (3) Pro účely stanovení způsobu výpočtu ročního obratu podle odstavce 1 se rozumí
+>
+> - a) podnikem jakákoli osoba vykonávající hospodářskou činnost bez ohledu na svou právní formu,
+>
+> - b) nezávislým podnikem podnik, který není partnerským podnikem podle písmene c) ani propojeným podnikem podle písmene d),
+>
+> - c) partnerskými podniky všechny podniky, které nejsou propojenými podniky podle písmene d) a mezi nimiž existuje vztah, v němž mateřský podnik sám nebo společně s jedním či více propojenými podniky vlastní podíl nebo podíly, které představují podíl na základním kapitálu dceřiného podniku ve výši alespoň 25 % nebo s nimiž je spojeno alespoň 25 % hlasovacích práv v dceřiném podniku; podnik se považuje za nezávislý i v případě dosažení nebo překročení této hranice investory, pokud nejsou s dotyčným podnikem jednotlivě ani společně propojeni podle písmene d),
+>
+> - d) propojenými podniky se rozumí podniky, mezi nimiž existuje některý z následujících vztahů:
+>
+> - 1. podnik je společníkem nebo členem jiného podniku a s jeho podílem nebo podíly v tomto jiném podniku je spojena většina hlasovacích práv,
+>
+> - 2. podnik má právo jmenovat nebo odvolávat většinu členů správního, řídícího nebo dozorčího orgánu jiného podniku,
+>
+> - 3. podnik má právo uplatňovat rozhodující vliv v jiném podniku podle smlouvy uzavřené s daným podnikem nebo na základě ustanovení v zakladatelském právním jednání, nebo
+>
+> - 4. podnik, který je společníkem nebo členem jiného podniku, může prosazovat rozhodující vliv v tomto jiném podniku uplatňováním většiny hlasovacích práv v tomto podniku v důsledku jednání ve shodě s jinými společníky nebo členy;
+>
+> má se za to, že rozhodující vliv investoři neuplatňují, nejsou-li zapojeni přímo či nepřímo do řízení daného podniku, aniž jsou tím dotčena jejich práva jakožto společníků nebo členů; za propojené podniky jsou rovněž považovány podniky, jejichž vztahy jsou dány prostřednictvím jednoho či více dalších podniků nebo prostřednictvím některého z investorů uvedeného v písmeni e); podniky, které mají jeden či více těchto vztahů prostřednictvím fyzické osoby nebo prostřednictvím skupiny fyzických osob, které jednají ve shodě, jsou považovány za propojené podniky, pokud svou činnost nebo část své činnosti vykonávají na stejném trhu nebo na trzích bezprostředně navazujících nebo předcházejících,
+>
+> - e) investorem
+>
+> - 1. veřejná investiční společnost, společnost rizikového kapitálu, jednotlivec či skupina jednotlivců provozující běžnou činnost spojenou s investováním rizikového kapitálu, kteří investují vlastní kapitál do nekótovaných podniků, za předpokladu, že jejich celkové investice do stejného podniku nepřekročí 1 250 000 EUR,
+>
+> - 2. univerzita nebo neziskové výzkumné středisko,
+>
+> - 3. institucionální investor včetně fondů pro regionální rozvoj, nebo
+>
+> - 4. obec s ročním rozpočtem nižším než 10 milionů EUR a s méně než 5 000 obyvateli.
+>
+> (4) Ročním obratem aliance dodavatelů nebo aliance odběratelů se rozumí součet ročních obratů všech členů aliance.
+>
+> (5) Roční obrat se určí jako součet tržeb, které podnik během účetního období v délce 12 měsíců dosáhl z prodeje výrobků a poskytování služeb a za prodej zboží (dále jen „tržby“). Roční obrat nezahrnuje daň z přidané hodnoty.
+>
+> (6) Pro zjištění ročního obratu podniku v dosud neukončeném účetním období se použije roční obrat za poslední ukončené účetní období v délce 12 měsíců, které neukončenému účetnímu období bezprostředně předcházelo.
+>
+> (7) V případě nově založených podniků s dosud neukončeným účetním obdobím v délce 12 měsíců se údaje použité pro výpočet odvodí z odhadů učiněných v dobré víře v návaznosti na výsledky činnosti v dosud neukončeném účetním období.
+>
+> (8) V případě zahraničních podniků se roční obrat určí z účetních závěrek nebo obdobných finančních výkazů zpracovávaných podniky podle zahraniční právní úpravy. Pro výpočet se použijí údaje, které nejlépe odpovídají výpočtu podle odstavce 5. Nejsou-li takové údaje dostupné, lze roční obrat zjistit jiným vhodným způsobem, včetně odhadu.
+>
+> (9) Roční obrat nezávislého podniku se určí výhradně na základě tržeb tohoto podniku.
+>
+> (10) Roční obrat partnerských nebo propojených podniků se určí na základě účetních závěrek a dalších údajů všech partnerských nebo propojených podniků nebo na základě konsolidované účetní závěrky, je-li sestavována.
+>
+> (11) V případě partnerských podniků se roční obrat podniku navyšuje o roční obrat každého z partnerských podniků v poměru, který odpovídá procentuálnímu podílu na základním kapitálu či na hlasovacích právech v závislosti na tom, která z hodnot je vyšší. V případě vzájemného vlastnictví je určující vyšší procentuální podíl.
+>
+> (12) V případě propojených podniků se roční obrat podniku navyšuje o 100 % ročního obratu každého z podniků, které jsou s daným podnikem přímo či nepřímo propojeny.
+>
+> (13) Pro účely přepočtu měn se použije kurz devizového trhu vyhlašovaný Českou národní bankou platný k poslednímu dni účetního období, k němuž se vztahuje roční obrat.
+>
+> (14) Odběratel a dodavatel si při jednání o smlouvě podle § 3b na vyžádání druhé smluvní strany vzájemně poskytnou informaci o výši svého ročního obratu. Stát, územní samosprávný celek, jiná právnická osoba veřejného práva nebo jejich sdružení informace podle věty první neposkytují.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 3b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a301d472fe7f8958866 -->
+
 ### § 3b — Forma a náležitosti smlouvy
 
 > **§ 3b**
@@ -490,6 +768,76 @@ Zákon připouští sjednání delší lhůty splatnosti jen v taxativně vymeze
 **Typicky rozhodné důkazy / podklady:** podepsaná smlouva a její znění, objednávky a dodací listy s daty, faktury a doklady o splatnosti, doklad o předání vyhotovení, podklady k odhadu nákladů u služeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b708db0a29a7fa87e0ce generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 3b — Forma a náležitosti smlouvy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Smlouva mezi odběratelem s významnou tržní silou a dodavatelem, jejímž předmětem je nákup, prodej, zpracování nebo distribuce zemědělských produktů nebo potravinářských výrobků nebo příjem nebo poskytování souvisejících služeb anebo zprostředkování některé z těchto činností, vyžaduje písemnou formu, musí být uzavřena před zahájením dodávek nebo zpracováním zemědělských produktů nebo potravinářských výrobků anebo přijetím nebo poskytnutím souvisejících služeb a musí obsahovat také
+>
+> - a) cenu, výši slevy z ceny nebo způsob jejího určení, je-li poskytována, způsob úhrady ceny a lhůtu splatnosti ceny, která nesmí být delší než 30 dnů ode dne doručení faktury; [[§ 1964|§ 1964]] [[občanského zákoníku|občanského zákoníku]] se použije obdobně,
+>
+> - b) jde-li o koupi, předmět koupě a určení jeho množství za stanovené období nebo určení množství jednotlivých dodávek předmětu koupě,
+>
+> - c) specifikaci související služby, je-li ujednána, která je přijímána nebo poskytována, co do předmětu a rozsahu, včetně ceny za tuto službu nebo způsobu jejího určení, způsobu její úhrady, doby splatnosti a odhadu nákladů a podklad, na jehož základě k takovému odhadu odběratel s významnou tržní silou dospěl, a
+>
+> - d) specifikaci nákupní akce, je-li ujednána, odhadované množství zemědělských produktů nebo potravinářských výrobků, kterých se bude nákupní akce týkat včetně kupní ceny za tyto produkty nebo výrobky a dobu trvání nákupní akce.
+>
+> (2) Odběratel s významnou tržní silou předá dodavateli bezprostředně po uzavření smlouvy alespoň jedno její vyhotovení.
+>
+> (3) Odběratel s významnou tržní silou a dodavatel si mohou sjednat lhůtu splatnosti ceny delší, než je uvedena v odstavci 1 písm. a), pokud
+>
+> - a) se dohodli na ustanovení o sdílení hodnoty ve smyslu čl. 172a nařízení (EU) č. [[1308/2013|1308/2013]],
+>
+> - b) jde o platbu provedenou dodavateli v rámci školního projektu podle čl. 23 nařízení (EU) č. [[1308/2013|1308/2013]],
+>
+> - c) jde o platbu provedenou právnickou osobou veřejného práva poskytující zdravotní služby, nebo
+>
+> - d) jde o platbu provedenou na základě smlouvy o dodávkách mezi dodavatelem hroznů nebo částečně zkvašeného hroznového moštu pro výrobu vína a jeho přímým odběratelem s významnou tržní silou, pokud
+>
+> - 1. jsou konkrétní platební podmínky týkající se prodeje obsaženy ve vzorových smlouvách, jež byly členským státem učiněny závaznými podle čl. 164 nařízení (EU) č. [[1308/2013|1308/2013]] před 1. lednem 2019, je-li platnost tohoto rozšíření působnosti vzorových smluv členskými státy obnovena od uvedeného dne bez jakýchkoli výraznějších změn platebních podmínek v neprospěch dodavatelů hroznů nebo částečně zkvašeného hroznového moštu, a
+>
+> - 2. jsou smlouvy mezi dodavateli hroznů nebo částečně zkvašeného hroznového moštu pro výrobu vína a jejich přímými odběrateli s významnou tržní silou uzavřeny na dobu delší než 1 rok, nebo trvají po dobu delší než 1 rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1964
+
+##### Souvisící předpisy
+
+- akt EU 1308/2013 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b708db0a29a7fa87e0ce -->
 
 ### § 4 — Nekalé obchodní praktiky
 
@@ -651,6 +999,106 @@ Tři praktiky v odst. 3 (příspěvek na propagaci, platba za reklamu, platba za
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=89ab105ae2064a3f40de generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 4 — Nekalé obchodní praktiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Nekalé obchodní praktiky mezi odběratelem s významnou tržní silou a dodavatelem jsou zakázány.
+>
+> (2) Nekalou obchodní praktikou odběratele s významnou tržní silou je
+>
+> - a) sjednání nebo uplatnění smluvních podmínek, které vytvářejí výraznou nerovnováhu v právech a povinnostech smluvních stran v neprospěch dodavatele,
+>
+> - b) uplatnění nebo získání platby, slevy nebo jiného plnění, jejichž výše, předmět a rozsah poskytovaného protiplnění za tuto platbu, slevu nebo jiné plnění nebyly písemně sjednány před zahájením dodávek nebo zpracováním zemědělských produktů nebo potravinářských výrobků nebo poskytnutím souvisejících služeb, ke kterým se platba, sleva nebo jiné plnění vztahuje nebo nebylo za tuto platbu, slevu nebo jiné plnění poskytnuto přiměřené protiplnění,
+>
+> - c) nerovné zacházení s dodavatelem spočívající ve sjednání nebo uplatnění rozdílných smluvních podmínek pro nákup nebo prodej zemědělských produktů nebo potravinářských výrobků nebo pro poskytování souvisejících služeb při srovnatelném plnění, bez spravedlivého důvodu,
+>
+> - d) svévolná změna smluvních podmínek nákupu nebo prodeje zemědělských produktů nebo potravinářských výrobků týkající se četnosti, způsobu, místa, načasování nebo množství jednotlivých dodávek, norem jakosti, platebních podmínek nebo cen nebo podmínek poskytovaných souvisejících služeb, jakož i ujednání tuto změnu umožňující,
+>
+> - e) vázání souhlasu s uzavřením smlouvy o nákupu nebo prodeji zemědělských produktů nebo potravinářských výrobků nebo poskytnutím souvisejících služeb na podmínku odběru dalšího plnění,
+>
+> - f) nedodržení písemné formy smlouvy nebo nesjednání povinné náležitosti smlouvy podle § 3b odst. 1 nebo [[#§ 3|3]] nebo nepředání jednoho vyhotovení smlouvy dodavateli podle § 3b odst. 2,
+>
+> - g) vyžadování platby nebo jiného plnění, které nesouvisí s nákupem nebo prodejem zemědělských produktů nebo potravinářských výrobků nebo s poskytováním souvisejících služeb, nebo které jsou nepřiměřené hodnotě poskytnutých služeb,
+>
+> - h) hrozba nebo uplatnění odvetných opatření v případě, kdy dodavatel odběratele s významnou tržní silou využívá svá smluvní nebo zákonná práva,
+>
+> - i) neoprávněné získání, využití nebo zpřístupnění obchodního tajemství dodavatele odběratelem s významnou tržní silou,
+>
+> - j) sjednání nebo uplatnění cenové podmínky, v jejímž důsledku nebude daňový doklad na úhradu ceny za nákup nebo prodej zemědělských produktů nebo potravinářských výrobků nebo poskytnutí souvisejících služeb obsahovat konečnou výši ceny po veškerých sjednaných slevách z této ceny s výjimkou předem sjednaných množstevních slev,
+>
+> - k) sjednání nebo uplatnění lhůty splatnosti kupní ceny za nákup nebo prodej zemědělských produktů nebo potravinářských výrobků delší, než je lhůta uvedená v § 3b odst. 1 písm. a),
+>
+> - l) sjednání nebo uplatnění náhrady sankce uložené dozorovým orgánem odběrateli s významnou tržní silou po dodavateli, aniž by dodavatel zapříčinil uložení sankce porušením své povinnosti,
+>
+> - m) provádění auditu nebo jiné formy kontroly dodavatele odběratelem s významnou tržní silou nebo jím pověřené osoby včetně požadování rozborů zemědělských produktů nebo potravinářských výrobků na náklady dodavatele,
+>
+> - n) sjednání nebo uplatnění platby nebo jiného plnění za zhoršení jakosti nebo za ztrátu zemědělských produktů nebo potravinářských výrobků, která nebyla způsobena porušením povinnosti dodavatele, poté, co odběratel s významnou tržní silou převzal zemědělský produkt nebo potravinářský výrobek anebo na něj přešlo vlastnické právo k zemědělskému produktu nebo potravinářskému výrobku,
+>
+> - o) zrušení objednávky zemědělských produktů nebo potravinářských výrobků podléhajících rychlé zkáze v době kratší než 30 dnů přede dnem jejich dodání,
+>
+> - p) sjednání nebo uplatnění náhrady nákladů spojených s prošetřením stížnosti spotřebitele týkající se zemědělských produktů nebo potravinářských výrobků, aniž by se dodavatel dopustil pochybení,
+>
+> - q) sjednání nebo uplatnění práva na vrácení nakoupených zemědělských produktů nebo potravinářských výrobků, bez toho, aby odběratel s významnou tržní silou za neprodané zemědělské produkty nebo potravinářské výrobky nebo za jejich odstranění zaplatil,
+>
+> - r) sjednání nebo uplatnění platby nebo jiného plnění za uvedení zemědělských produktů nebo potravinářských výrobků do prodeje, včetně sjednání nebo uplatnění platby nebo jiného plnění za skladování zemědělských produktů nebo potravinářských výrobků, jejich zařazení do nabídky nebo jejich dodání na trh,
+>
+> - s) sjednání nebo uplatnění platby nebo jiného plnění za stavební nebo technologickou úpravu prostor pro prodej zemědělských produktů nebo potravinářských výrobků,
+>
+> - t) nepravdivé uvedení země nebo místa původu zemědělských produktů nebo potravinářských výrobků nebo nepravdivé označení země nebo místa původu jedné nebo více složek zemědělského produktu nebo potravinářského výrobku, které tvoří více než 50 % tohoto produktu nebo výrobku,
+>
+> - u) požadavek, aby dodavatel zcela nebo zčásti uhradil náklady na slevy na zemědělské produkty nebo potravinářské výrobky prodávané odběratelem v rámci propagační akce odběratele, pokud odběratel před zahájením propagační akce neupřesní období a neuvede předpokládané množství výrobků, které budou objednány se slevou, nebo
+>
+> - v) podmiňování dodávek využitím služeb třetí strany, jejichž podmínky a cenu stanoví odběratel.
+>
+> (3) Pokud před zahájením dodávek zemědělských produktů nebo potravinářských výrobků nebo poskytnutím souvisejících služeb nebyly podmínky jejich dodávek nebo poskytnutí písemně sjednány, považuje se za nekalou obchodní praktiku odběratele s významnou tržní silou také
+>
+> - a) sjednání nebo uplatnění platby nebo jiného plnění na celkovou nebo částečnou úhradu nákladů na slevu zemědělských produktů nebo potravinářských výrobků prodávaných odběratelem v rámci propagace,
+>
+> - b) sjednání nebo uplatnění platby nebo jiného plnění za reklamu na zemědělské produkty nebo potravinářské výrobky poskytnutou odběratelem, nebo
+>
+> - c) sjednání nebo uplatnění platby nebo jiného plnění za pracovníky zajišťující úpravu prostor pro prodej zemědělských produktů nebo potravinářských výrobků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3b, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89ab105ae2064a3f40de -->
+
 ### § 5 — Dozor nad dodržováním zákona
 
 > **§ 5**
@@ -709,6 +1157,54 @@ Podněty k zahájení řízení přijímá ÚOHS; řízení z moci úřední zah
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=15d19e81d9d313fb371d generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 5 — Dozor nad dodržováním zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Dozor nad dodržováním zákona vykonává Úřad pro ochranu hospodářské soutěže (dále jen „Úřad“).
+>
+> (2) Úřad vydává výroční zprávu o své činnosti podle tohoto zákona a vhodným způsobem ji zveřejňuje. Výroční zpráva obsahuje zejména počet obdržených podnětů, počet zahájených správních řízení a počet ukončených správních řízení včetně popisu věci a výsledku řízení. Úřad každoročně do 15. března zasílá výroční zprávu Evropské komisi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=15d19e81d9d313fb371d -->
+
 ### § 5a — Sektorové šetření
 
 > **§ 5a**
@@ -766,6 +1262,56 @@ Sdílení informací s **cenovým orgánem** (odst. 3) zajišťuje koordinaci me
 **Typicky rozhodné důkazy / podklady:** tržní signály a podněty, vyžádané smlouvy/ceníky a součinnostní odpovědi, zpráva o výsledcích šetření, podklady pro cenový orgán.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=807a622b5bdbeab685ea generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 5a — Sektorové šetření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) V případech, kdy situace na trhu nasvědčuje používání nekalých obchodních praktik, provádí Úřad šetření trhu a vztahů mezi odběrateli a dodavateli (dále jen „sektorové šetření“) a vydává zprávy o výsledcích šetření, jejichž obsahem je zejména doporučení postupu správné praxe.
+>
+> (2) Při provádění sektorového šetření podle odstavce 1 postupuje Úřad obdobně podle [[§ 21c|§ 21c]], [[21e|21e]], [[21f|21f]] a [[21g|21g]] zákona [[o ochraně hospodářské soutěže|o ochraně hospodářské soutěže]]. Úřad může na základě skutečností zjištěných při provádění sektorového šetření zahájit řízení z moci úřední.
+>
+> (3) Úřad poskytne cenovému orgánu na vyžádání informace získané při provádění sektorového šetření podle odstavce 1 pro účely vyhodnocování vývoje, regulace a kontroly cen podle zákona [[o cenách|o cenách]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=807a622b5bdbeab685ea -->
 
 ### § 6 — Rozhodnutí o porušení zákona, závazky
 
@@ -851,6 +1397,66 @@ Závazky musejí být navrženy nejpozději do **15 dnů od doručení sdělení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e531f3e35d418cf38373 generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li Úřad v řízení z moci úřední, že došlo k porušení tohoto zákona, tuto skutečnost v rozhodnutí uvede a tímto rozhodnutím takové jednání do budoucna zakáže.
+>
+> (2) Úřad zveřejňuje svá pravomocná rozhodnutí vydaná podle tohoto zákona na svých internetových stránkách.
+>
+> (3) Namísto rozhodnutí podle odstavce 1 Úřad může rozhodnout o zastavení řízení za podmínky, že účastník řízení Úřadu navrhl závazky, jejichž splněním se odstraní závadný stav, a že porušení zákona nebylo Úřadem kvalifikováno jako závažné. Ve výrokové části rozhodnutí o zastavení řízení tyto závazky uvede a může rovněž stanovit podmínky a povinnosti nutné k zajištění splnění těchto závazků. Jestliže Úřad nerozhodne o zastavení řízení, důvody písemně sdělí účastníku řízení a pokračuje v řízení.
+>
+> (4) Závazky podle odstavce 3 může účastník řízení písemně navrhnout Úřadu nejpozději do 15 dnů ode dne, kdy mu Úřad doručil písemné vyrozumění, v němž Úřad sdělí základní skutkové okolnosti případu, jejich právní hodnocení a odkazy na hlavní důkazy o nich, obsažené ve spise (dále jen „sdělení výhrad“). Účastník řízení je svým návrhem vázán vůči Úřadu, popřípadě vůči třetím osobám, a od podání návrhu do rozhodnutí Úřadu podle odstavce 3 nesmí postupovat způsobem, který je předmětem sdělení výhrad Úřadu.
+>
+> (5) Po zastavení řízení podle odstavce3 může Úřad znovu zahájit řízení podle odstavce 1, jestliže
+>
+> - a) se podstatně změnily podmínky, které byly pro vydání rozhodnutí podle odstavce3 rozhodné,
+>
+> - b) účastník řízení jedná v rozporu se svými závazky podle odstavce 3, nebo
+>
+> - c) rozhodnutí podle odstavce 3 bylo vydáno na základě nepravdivých nebo neúplných podkladů, údajů a informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e531f3e35d418cf38373 -->
+
 ### § 6a — Opatření k nápravě
 
 > **§ 6a**
@@ -905,3 +1511,48 @@ Podmínkou uložení opatření je zjištění porušení zákazu „stanovenéh
 
 > **Pokračování:** [02-dozor-prestupky-zaverecna.md](02-dozor-prestupky-zaverecna.md) — §§ 7–11: procesní pravidla dozoru (přiměřené použití zákona o ochraně hospodářské soutěže), přestupky právnických a podnikajících fyzických osob, promlčení, pořádkové pokuty, mezinárodní spolupráce, mlčenlivost a závěrečná ustanovení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=86ad41cbdf5a1540a2c8 generator=2026-07-17.4 source_sha256=4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688 -->
+#### Revizní doplnění k § 6a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/395-2009 Zákon o významné tržní síle a nekalých obchodních praktikách při prodeji zemědělských a potravinářských produktů.md`; identifikátor verze: `SB-2009-00395_2025-01-01`; SHA-256: `4912dea2a162b6ae793d02f6b00ae472abd973cbd85e89ee9b467258e6f7d688`.
+
+##### Znění ustanovení
+
+> Je-li zjištěno porušení zákazu stanoveného v [[#§ 4|§ 4]], může Úřad rozhodnout o uložení opatření k nápravě, jehož účelem je odstranění závadného stavu, a stanovit přiměřenou lhůtu k jeho splnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86ad41cbdf5a1540a2c8 -->
